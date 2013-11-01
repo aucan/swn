@@ -1,0 +1,15 @@
+D:\CS\C#\webcrawler\webcrawler\bin\Release\webcrawler.exe.config
+D:\CS\C#\webcrawler\webcrawler\bin\Release\webcrawler.exe
+D:\CS\C#\webcrawler\webcrawler\bin\Release\webcrawler.pdb
+D:\CS\C#\webcrawler\webcrawler\bin\Release\HtmlAgilityPack.dll
+D:\CS\C#\webcrawler\webcrawler\bin\Release\Iesi.Collections.dll
+D:\CS\C#\webcrawler\webcrawler\bin\Release\Iesi.Collections.Generic.dll
+D:\CS\C#\webcrawler\webcrawler\bin\Release\log4net.dll
+D:\CS\C#\webcrawler\webcrawler\bin\Release\NZemberek.dll
+D:\CS\C#\webcrawler\webcrawler\bin\Release\HtmlAgilityPack.pdb
+D:\CS\C#\webcrawler\webcrawler\bin\Release\HtmlAgilityPack.xml
+D:\CS\C#\webcrawler\webcrawler\obj\Release\webcrawler.Form1.resources
+D:\CS\C#\webcrawler\webcrawler\obj\Release\webcrawler.Properties.Resources.resources
+D:\CS\C#\webcrawler\webcrawler\obj\Release\webcrawler.csproj.GenerateResource.Cache
+D:\CS\C#\webcrawler\webcrawler\obj\Release\webcrawler.exe
+D:\CS\C#\webcrawler\webcrawler\obj\Release\webcrawler.pdb
