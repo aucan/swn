@@ -10,3 +10,15 @@ D:\CS\C#\englishtoturkish\englishtoturkish\bin\Debug\englishtoturkish.exe.config
 D:\CS\C#\englishtoturkish\englishtoturkish\bin\Debug\HtmlAgilityPack.dll
 D:\CS\C#\englishtoturkish\englishtoturkish\bin\Debug\HtmlAgilityPack.pdb
 D:\CS\C#\englishtoturkish\englishtoturkish\bin\Debug\HtmlAgilityPack.xml
+D:\CS\github\swn\englishtoturkish\englishtoturkish\bin\Debug\englishtoturkish.exe.config
+D:\CS\github\swn\englishtoturkish\englishtoturkish\obj\Debug\englishtoturkish.exe
+D:\CS\github\swn\englishtoturkish\englishtoturkish\obj\Debug\englishtoturkish.pdb
+D:\CS\github\swn\englishtoturkish\englishtoturkish\bin\Debug\englishtoturkish.exe
+D:\CS\github\swn\englishtoturkish\englishtoturkish\bin\Debug\englishtoturkish.pdb
+D:\CS\github\swn\englishtoturkish\englishtoturkish\bin\Debug\HtmlAgilityPack.dll
+D:\CS\github\swn\englishtoturkish\englishtoturkish\bin\Debug\HtmlAgilityPack.pdb
+D:\CS\github\swn\englishtoturkish\englishtoturkish\bin\Debug\HtmlAgilityPack.xml
+D:\CS\github\swn\englishtoturkish\englishtoturkish\obj\Debug\englishtoturkish.csprojResolveAssemblyReference.cache
+D:\CS\github\swn\englishtoturkish\englishtoturkish\obj\Debug\englishtoturkish.Form1.resources
+D:\CS\github\swn\englishtoturkish\englishtoturkish\obj\Debug\englishtoturkish.Properties.Resources.resources
+D:\CS\github\swn\englishtoturkish\englishtoturkish\obj\Debug\englishtoturkish.csproj.GenerateResource.Cache
